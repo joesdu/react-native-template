@@ -1,6 +1,6 @@
-# Yarn2.x包管理工具
+# Yarn2.x 包管理工具
 
-必须安装Yarn 1.x才行,使用方法,解压到项目根目录即可使用.
+必须安装 Yarn 1.x 才行,使用方法,解压到项目根目录即可使用.
 
 ## Getting Started
 
@@ -28,4 +28,10 @@ yarn plugin import interactive-tools
 
 ```bash
 yarn plugin import typescript
+```
+
+更新 React Native 版本
+
+```bash
+npx react-native upgrade
 ```
