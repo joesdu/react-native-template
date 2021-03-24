@@ -1,5 +1,5 @@
 {
-  "name": "awesomeproject",
+  "name": "react-native-template",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@babel/runtime": "^7.13.10",
-    "@types/prettier": "^2",
+    "@types/prettier": "^2.2.3",
     "@types/react": "^17.0.3",
     "@types/react-native": "^0.64.0",
     "@types/react-test-renderer": "^17.0.1",
