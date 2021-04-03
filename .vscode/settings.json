@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
         "APPICON",
+        "ARCHS",
         "ASSETCATALOG",
         "AUTORELEASING",
         "BITCODE",
+        "GDNV",
         "INFOPLIST",
         "IPHONEOS",
         "LDFLAGS",
@@ -13,6 +15,7 @@
         "OBJC",
         "Okhttp",
         "Onone",
+        "PODFILE",
         "RUNPATH",
         "SDKROOT",
         "SRCROOT",
@@ -30,6 +33,7 @@
         "genkey",
         "gradlew",
         "iphone",
+        "iphonesimulator",
         "jarfile",
         "jarfiles",
         "keypass",
@@ -45,6 +49,8 @@
         "stylelintrc",
         "umijs",
         "xcassets",
+        "xcconfig",
+        "xcfilelist",
         "xctest",
         "yarnpkg"
     ]
